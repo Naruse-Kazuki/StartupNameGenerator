@@ -1,6 +1,7 @@
-# startupnamer
+# Startup Name Generator
 
-Startup Namer Application.
+
+This app is a Startup Namer Application. Combine English words to propose the name of a startup company.
 
 ## Getting Started
 
