@@ -1,9 +1,11 @@
 # Startup Name Generator
 
-
 This app is a Startup Namer Application. Combine English words to propose the name of a startup company.
 
-## Getting Started
+<img width="428" alt="スクリーンショット 2020-04-26 8 15 34" src="https://user-images.githubusercontent.com/53788311/80293074-1d52d280-8797-11ea-8c9b-5eb74ff02c67.png">
+
+
+## Getting Starte
 
 This project is a starting point for a Flutter application.
 

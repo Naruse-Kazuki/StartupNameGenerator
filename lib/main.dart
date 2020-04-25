@@ -98,8 +98,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData.dark(          // Add the 3 lines from here...
-//        primaryColor: Colors.white,
+      theme: ThemeData(          // Add the 3 lines from here...
+        primaryColor: Colors.white,
       ),
       home: RandomWords(),
     );
