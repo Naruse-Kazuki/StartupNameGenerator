@@ -1,6 +1,8 @@
 # Startup Name Generator
 
-This app is a Startup Namer Application. Combine English words to propose the name of a startup company.
+This app is a Startup Name Application. Combine English words to propose the name of a startup company.
+
+![Animated GIF-downsized (5)](https://user-images.githubusercontent.com/53788311/80296539-310e3100-87b7-11ea-8aa1-1c8c6fa3ce58.gif)
 
 <img width="428" alt="スクリーンショット 2020-04-26 8 15 34" src="https://user-images.githubusercontent.com/53788311/80293074-1d52d280-8797-11ea-8c9b-5eb74ff02c67.png">
 
