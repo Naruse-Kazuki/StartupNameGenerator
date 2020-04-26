@@ -4,8 +4,9 @@ This app is a Startup Namer Application. Combine English words to propose the na
 
 <img width="428" alt="スクリーンショット 2020-04-26 8 15 34" src="https://user-images.githubusercontent.com/53788311/80293074-1d52d280-8797-11ea-8c9b-5eb74ff02c67.png">
 
+<img width="424" alt="スクリーンショット 2020-04-26 12 06 30" src="https://user-images.githubusercontent.com/53788311/80296497-cfe65d80-87b6-11ea-9a48-704e64139a5c.png">
 
-## Getting Starte
+## Getting Start
 
 This project is a starting point for a Flutter application.
 
